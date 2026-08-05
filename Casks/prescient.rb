@@ -7,7 +7,7 @@ cask "prescient" do
   desc "GUI file and text search utility"
   homepage "https://github.com/HalloweenJack2606/prescient"
 
-  depends_on macos: ">= :tahoe"
+  depends_on macos: :tahoe
 
   app "Prescient.app"
 
