@@ -1,6 +1,6 @@
 cask "prescient" do
-  version "1.1.0"
-  sha256 "997559ea7cfa02b1171f3f896306d8d3d718a8a201a2d64e23d0b9357371e79f"
+  version "1.2.0"
+  sha256 "0ec144a6ac8fe1f44ab7e2f46bb12bfc5da0551302581d588e2f36eb29a2381d"
 
   url "https://github.com/HalloweenJack2606/prescient/releases/download/v#{version}/Prescient-#{version}.dmg"
   name "Prescient"
